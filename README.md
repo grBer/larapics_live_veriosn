@@ -1,6 +1,6 @@
  
-<p align="center">
+<h1 align="center">
   This text is centered on GitHub!
-</p>
+</h1>
 
 #### This is
