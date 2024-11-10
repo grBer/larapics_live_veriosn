@@ -30,13 +30,13 @@
   
   
      
-      1. Clone the repo or download it as zip and then unzip it to the folder you desire
-      2. Open your command prompt and go to larapics folder
-      3. Download the dependencies using composer install command
-      4. Once installation of depedencies finish remain to larapics folder and run the command 'php artisan key:generate' to generate a new app key
-      5. Edit .env file  by adding your credentials
-      6. Run from your cmd within larapics folder the command 'php artisan migrate' to migrate with your database
-      7. Run the symlink.php file (simply open your localhost in your browser and run it)
+      1. Clone the repo or download it as zip and then unzip it to the folder you desire.
+      2. Open your command prompt and go to larapics folder.
+      3. Download the dependencies using 'composer install' command.
+      4. Once installation of depedencies finish remain to larapics folder and run the command 'php artisan key:generate' to generate a new app key.
+      5. Edit .env file  by adding your credentials.
+      6. Run from your cmd within larapics folder the command 'php artisan migrate' to migrate with your database.
+      7. Run the symlink.php file (simply open your localhost in your browser and run it).
     
   <p align="center">
     *In step 7 after the execution of the symlink.php script a storage folder should be created to the same level with larapics folder.
