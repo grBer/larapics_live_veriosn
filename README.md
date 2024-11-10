@@ -40,18 +40,7 @@
     
   <p align="center">
     *In step 7 after the execution of the symlink.php script a storage folder should be created to the same level with larapics folder.
-     If storage folder is not created then comment the version 1 within the symlink.php script and uncomment the version 2 and then run it again.
-
-    
-  </p>
-  
-  <h1 align="center">
-    Copyrights
-  </h1>
-
-  <p align="center">
-    The project is based on a course of <a href="https://www.udemy.com/user/edomaru/">Eding Muhamad Saprudin</a> with some personal edits to the back-end
-    and some removals of front-end features.
+     If storage folder is not created then comment the version 1 within the symlink.php script and uncomment the version 2 and then run it again.    
   </p>
 
 
