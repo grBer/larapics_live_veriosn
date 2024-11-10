@@ -31,13 +31,14 @@
   
      
       1. Clone the repo or download it as zip and then unzip it to the folder you desire
-      2. Open your command prompt and navigate to 'larapics' folder
-      3. Download the dependencies using 'composer install' command
-      4. Once installation of depedencies finish remain to larapics folder and run the command
-         'php artisan key:generate' to generate a new app key
-      5. Edit .env file  by adding your credentials
+      <br/>
+      2. Open your command prompt and navigate to 'larapics' folder<br/>
+      3. Download the dependencies using 'composer install' command<br/>
+      4. Once installation of depedencies finish remain to larapics folder and run the command<br/>
+         'php artisan key:generate' to generate a new app key<br/>
+      5. Edit .env file  by adding your credentials<br/>
       6. Run from your cmd within larapics folder the command 'php artisan migrate' to migrate 
-         with your database
+         with your database<br/>
       7. Run the symlink.php file (simply open your localhost in your browser and run it)
     
   <p align="center">
