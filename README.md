@@ -34,9 +34,10 @@
       2. Open your command prompt and navigate to 'larapics' folder
       3. Download the dependencies using 'composer install' command
       4. Once installation of depedencies finish remain to larapics folder and run the command
-      'php artisan key:generate' to generate a new app key
+         'php artisan key:generate' to generate a new app key
       5. Edit .env file  by adding your credentials
-      6. Run from your cmd within larapics folder the command 'php artisan migrate' to migrate with your database
+      6. Run from your cmd within larapics folder the command 'php artisan migrate' to migrate 
+         with your database
       7. Run the symlink.php file (simply open your localhost in your browser and run it)
     
   <p align="center">
