@@ -6,7 +6,7 @@
 <br/>
 
 <p align="center"> 
-  The following projct is a fully functional laravel project with CRUD  and authentication features letting users make their account, upload, delete, edit images. 
+  The following project is a fully functional laravel project with CRUD  and authentication features letting users make their account, upload, delete, edit images. 
   The front-end is built with blade.<br/> <br/>
   There is three user categories.<br/><br/> 
   Admin: He/She can edit or deleting anyone's picture.<br/>
