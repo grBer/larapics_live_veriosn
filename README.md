@@ -9,9 +9,9 @@
   The following projct is a fully functional laravel project with CRUD  and authentication features letting users make their account, upload, delete, edit images. 
   The front-end is built with blade.<br/> <br/>
   There is three user categories.<br/><br/> 
-  Admin: He/She can edit or deleting anyone's picture  <br/>
-  Editor: He/She can edit anyone's picture but he/she can delete only his/her own pictures <br/>
-  Author: He/She can edit and delete only his/her own pictures 
+  Admin: He/She can edit or deleting anyone's picture.<br/>
+  Editor: He/She can edit anyone's picture but he/she can delete only his/her own pictures.<br/>
+  Author: He/She can edit and delete only his/her own pictures. 
 </p>
 
 <h1 align="center">
@@ -24,8 +24,8 @@
   <br/>
   <br/>
  
-  The files i provide in the repo is the way would be in a live server so you just need follow the following steps and then run 
-  the index.php within larapics_live_veriosn folder as an entry point
+  The files i provide in the repo is the way would be in a live server so you just need to follow the following steps and then run 
+  the index.php within larapics_live_veriosn folder as an entry point.
  </div>
   
   
