@@ -24,7 +24,7 @@
   <br/>
   <br/>
  
-  The files i provide is the way would be in a live server so you just need follow the following step and then run 
+  The files i provide in the repo is the way would be in a live server so you just need follow the following steps and then run 
   the index.php within larapics_live_veriosn folder as an entry point
  </div>
   
