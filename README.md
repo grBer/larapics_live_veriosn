@@ -9,7 +9,7 @@
   The following project is a fully functional laravel project with CRUD  and authentication features letting users make their account, upload, delete, edit images. 
   The front-end is built with blade.<br/> <br/>
   There is three user categories.<br/><br/> 
-  Admin: He/She can edit or deleting anyone's picture.<br/>
+  Admin: He/She can edit or delete anyone's picture.<br/>
   Editor: He/She can edit anyone's picture but he/she can delete only his/her own pictures.<br/>
   Author: He/She can edit and delete only his/her own pictures. 
 </p>
@@ -40,7 +40,7 @@
     
   <p align="center">
     *In step 7 after the execution of the symlink.php script a storage folder should be created to the same level with larapics folder.
-     If not comment the version 1 within the symlink.php script and uncomment the version 2 and then run it again.
+     If storage folder is not created then comment the version 1 within the symlink.php script and uncomment the version 2 and then run it again.
   </p>
 
 
