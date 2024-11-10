@@ -30,7 +30,7 @@
   
   
      
-      1. Clone the repo or download it as zip and then unzip it to the folder you desire.
+      1. Clone the repo or download it as zip and then unzip it to the folder you desire
       2. Open your command prompt and go to larapics folder
       3. Download the dependencies using 'composer install' command
       4. Once installation of depedencies finish remain to larapics folder and run the command 'php artisan key:generate' to generate a new app key
