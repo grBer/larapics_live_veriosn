@@ -25,7 +25,7 @@
   <br/>
  
   The files i provide in the repo is the way would be in a live server so you just need to follow the following steps and then run 
-  the index.php within larapics_live_veriosn folder as an entry point.
+  the index.php within larapics_live_version folder as an entry point.
  </div>
   
   
