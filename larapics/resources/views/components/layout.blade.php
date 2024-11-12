@@ -49,7 +49,7 @@
                                 </li>
                             @endif
                         @else
-                            <li class="nav-item"><a href="/" class="nav-link {{ request()->is('/') ? 'active ' : '' }}"> All Images</a></li>
+                            <li class="nav-item"><a href="{{ route('images.all') }}" class="nav-link {{ request()->is('/') ? 'active ' : '' }}"> All Images</a></li>
                             <li class="nav-item"><a href="{{ route('images.index') }}" class="nav-link {{ request()->is('account/images*') ? 'active' : '' }}"> My Images</a></li>
                             <li class="nav-item"><a href="{{ route('comments.index') }}" class="nav-link {{ request()->is('account/comments*') ? 'active' : '' }}">Comments</a></li>
                             <!--li class="nav-item"><a href="#" class="nav-link {{ request()->is('account/favorites*') ? 'active' : '' }}">Favorites</a></li-->
