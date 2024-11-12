@@ -18,7 +18,7 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-light border-bottom">
         <div class="container-fluid">
-            <a class="navbar-brand" href="/">
+            <a class="navbar-brand" href="{{ route('images.all') }}">
                 <x-icon src="logo.svg" alt="" width="30" height="24"
                     class="d-inline-block align-text-top color-light"/>
                 Larapics
