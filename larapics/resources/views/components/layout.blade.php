@@ -18,7 +18,7 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-light border-bottom">
         <div class="container-fluid">
-            <a class="navbar-brand" href="/">
+            <a class="navbar-brand" href="{{ route('images.all') }}">
                 <x-icon src="logo.svg" alt="" width="30" height="24"
                     class="d-inline-block align-text-top color-light"/>
                 Larapics
@@ -49,7 +49,7 @@
                                 </li>
                             @endif
                         @else
-                            <li class="nav-item"><a href="/" class="nav-link {{ request()->is('/') ? 'active ' : '' }}"> All Images</a></li>
+                            <li class="nav-item"><a href="{{ route('images.all') }}" class="nav-link {{ request()->is('/') ? 'active ' : '' }}"> All Images</a></li>
                             <li class="nav-item"><a href="{{ route('images.index') }}" class="nav-link {{ request()->is('account/images*') ? 'active' : '' }}"> My Images</a></li>
                             <li class="nav-item"><a href="{{ route('comments.index') }}" class="nav-link {{ request()->is('account/comments*') ? 'active' : '' }}">Comments</a></li>
                             <!--li class="nav-item"><a href="#" class="nav-link {{ request()->is('account/favorites*') ? 'active' : '' }}">Favorites</a></li-->
